@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+}
+header{
+    height: 2%;
+}
+ul{
+    list-style: none;
+}
+h2{
+    width: 100%;
+}
+img {
+    max-width:100%;
+    height:auto;
+}
+#best_movie{
+    display: flex;
+    flex-wrap: wrap;
+}
+#best_movie_ims{
+    width: 50%;
+}
+#best_movie_infos{
+    width: 50%;
+}
